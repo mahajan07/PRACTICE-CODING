@@ -16,7 +16,7 @@ where xi is the ith element of the array
 * Lower and Upper Boundary of the 95% Confidence Interval for the mean, separated by a space. This might be a new term to some. However, it is an important concept with a simple, formulaic solution. 
 
 
-# SOLUTION:
+# SOLUTION: [Posted Sol.](https://www.hackerrank.com/challenges/stat-warmup/forum/comments/884073)
 * import pandas as pd
 * import numpy as np
 * from scipy import stats
