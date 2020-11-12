@@ -30,7 +30,7 @@ where xi is the ith element of the array
 * median = np.median(a)
 * mod = stats.mode(a)
 * ci = stats.norm.interval(0.950004, loc=mean, scale=sigma/np.sqrt(n))
-print("%.1f"%mean)
+* print("%.1f"%mean)
 print("%.1f"%median)
 print("%.0f"%mod[0][0])
 print("%.1f"%sigma)
