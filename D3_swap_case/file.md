@@ -19,3 +19,4 @@ if __name__ == '__main__':
     result = swap_case(s)
     print(result)
  ---
+s.swapcase() can be used for operation
